@@ -1,7 +1,7 @@
 # Flutter Quiz App
 
 A new Flutter project.
-
+![IMG_6617](https://user-images.githubusercontent.com/48697774/107272300-7d132500-6a1b-11eb-9af0-9e995e60e401.PNG)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
