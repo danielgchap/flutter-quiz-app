@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# Flutter Quiz App
 
 A new Flutter project.
 
